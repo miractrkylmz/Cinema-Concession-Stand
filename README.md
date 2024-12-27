@@ -1,3 +1,4 @@
 Temel seviyede sadece değişken kullanılarak yapılmış sinema büfe satış paneli
-![image](https://github.com/user-attachments/assets/a14f1fb5-b6c9-4d25-aae1-9c994e6bd740)
+![image](https://github.com/user-attachments/assets/b0df457d-5492-41a5-9f7b-7b627a291c25)
+
 
